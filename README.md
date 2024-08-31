@@ -29,7 +29,7 @@ This project provides a **simple reverse proxy** solution for websites built wit
 To set up the reverse proxy, follow these simple steps:
 
 1. **Download the `index.php` file:**
-   - [Download the `index.php` file from the repository](https://github.com/The.Erf/Hello-Webflow/index.php).
+   - [Download the `index.php` file from the repository](https://github.com/The-Erf/Hello-Webflow/blob/main/index.php).
 
 2. **Upload `index.php` to Your Shared Host:**
    - Use FTP or your hosting provider's file manager to upload the `index.php` file to the root directory of your shared host.
