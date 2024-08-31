@@ -26,6 +26,12 @@ This project provides a **simple reverse proxy** solution for websites built wit
 2. Compressing content to minimize data transfer.
 3. Creating a proxy in development or testing scenarios.
 
+
+
+## 🔍 How it Work?
+
+The following image provides a visual overview of how the reverse proxy script functions. It illustrates the key components and flow of the script, showing how it handles requests and serves content through the proxy.
+
 ![How It Work](https://github.com/The-Erf/Hello-Webflow/blob/main/how-it-work.jpg)
 
 
