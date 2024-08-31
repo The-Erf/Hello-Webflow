@@ -1,6 +1,6 @@
 # 🌐 Simple Reverse Proxy for Webflow Websites
 
-> **Enhance performance, reduce load times, and improve compatibility for Webflow-built websites.**
+Enhance performance, reduce load times, and improve compatibility for Webflow-built websites.
 
 
 
@@ -25,6 +25,9 @@ This project provides a **simple reverse proxy** solution for websites built wit
 1. Caching static content for quicker load times.
 2. Compressing content to minimize data transfer.
 3. Creating a proxy in development or testing scenarios.
+
+![How It Work](https://github.com/The-Erf/Hello-Webflow/blob/main/how-it-work.jpg)
+
 
 ## ⚙️ Installation
 
