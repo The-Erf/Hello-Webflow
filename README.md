@@ -20,13 +20,6 @@ This project provides a **simple reverse proxy** solution for websites built wit
 - 🗜️ **Content Compression:** Compress web content to reduce the size of data transferred.
 - 🔄 **Proxy Creation:** Set up a reverse proxy in development or testing environments.
 
-## 📋 Suggested Use Cases
-
-1. Caching static content for quicker load times.
-2. Compressing content to minimize data transfer.
-3. Creating a proxy in development or testing scenarios.
-
-
 
 ## 🔍 How it Work?
 
